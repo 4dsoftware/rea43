@@ -1,4 +1,4 @@
-# REA_3Drug
+# REA_3drug
 
 The three-drug version of REA. It follows the same tutorial as REA and GREA, and test data are included. Similarly the following syntax calls the REA package. 
 
